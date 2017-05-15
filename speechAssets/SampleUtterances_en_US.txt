@@ -1,0 +1,16 @@
+GetNewYouTubeMasterIntent who is the best youtube master
+GetNewYouTubeMasterIntent get the best youtuber
+GetNewYouTubeMasterIntent who is the best
+GetNewYouTubeMasterIntent top youtube master
+GetNewYouTubeMasterIntent get one of the masters
+GetNewYouTubeMasterIntent who is your favorite youtuber
+GetNewYouTubeMasterIntent favorite master
+ListNewYouTubeMasterIntent list the youtube masters
+ListNewYouTubeMasterIntent who are the youtube masters
+ListNewYouTubeMasterIntent who are the youtubers
+ListNewYouTubeMasterIntent tell me all the youtube masters
+ListNewYouTubeMasterIntent tell me all the youtubers
+ListNewYouTubeMasterIntent list them
+ListNewYouTubeMasterIntent list them all
+ListNewYouTubeMasterIntent list
+ListNewYouTubeMasterIntent all

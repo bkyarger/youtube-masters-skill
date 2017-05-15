@@ -1,0 +1,7 @@
+{ "intents": [
+    { "intent": "GetNewYouTubeMasterIntent" },
+    { "intent": "ListNewYouTubeMasterIntent" },
+    { "intent": "AMAZON.HelpIntent" },
+    { "intent": "AMAZON.StopIntent" },
+    { "intent": "AMAZON.CancelIntent" }
+]}

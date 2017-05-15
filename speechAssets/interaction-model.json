@@ -1,0 +1,47 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",  
+      "samples": []  
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "GetNewFactIntent",
+      "samples": [
+        "who is the best youtube master",
+        "get the best youtuber",
+        "who is the best",
+        "top youtube master",
+        "get one of the masters",
+        "who is your favorite youtuber",
+        "favorite master",
+        "favorite",
+        "best",
+        "top"
+      ],
+      "slots": []
+    },
+    {
+      "name": "ListNewFactIntent",
+      "samples": [
+        "list the youtube masters",
+        "who are the youtube masters",
+        "who are the youtubers",
+        "tell me all the youtube masters",
+        "tell me all the youtubers",
+        "list them",
+        "list them all",
+        "list",
+        "all"
+      ],
+      "slots": []
+    }
+  ]
+}
